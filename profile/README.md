@@ -2,8 +2,9 @@
 
 ![Community Banner](assets/Alphasians.png)
 
-Welcome to our community organisation! This is where we store our community projects, such as our home page and handbook.
 
+
+Welcome to our community organisation!
 Everything here is related to our [Discord server](https://discord.gg/bTUVVq83BB), so you should definitely head over there too!
 
 ## Joining the Organisation
