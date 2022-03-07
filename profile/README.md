@@ -4,6 +4,9 @@
   <img src="https://github.com/Alphasians/.github/blob/main/assets/Alphasians.png" height="200" width="200">
   <br>
   
+  <a href="https://github.com/alphasians" alt="Alphasians contributors">
+    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors-anon/alphasians/aina-reglia"></a>
+
   <a href="https://discord.gg/bTUVVq83BB" alt="Discord">
     <img src="https://img.shields.io/badge/Discord-@layer5.svg?logo=Discord" /></a>
   
