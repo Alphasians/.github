@@ -16,6 +16,7 @@ jobs:
         with:
           # Size of square images in the stack
           image_size: 100 # optional, default is 100
+          readme_path: CONTRIBUTORS.md
           # Number of columns in a row
           columns_per_row: 6 # optional, default is 6
           # Type of collaborators options: all/direct/outside
