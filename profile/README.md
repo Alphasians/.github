@@ -25,3 +25,7 @@
 ### GitHub Organisation
 
 - If you want you can raise an [issue to join the Alphasians GitHub organisation](https://github.com/Alphasians/Support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization) and we will invite you as soon as possible.
+
+
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
